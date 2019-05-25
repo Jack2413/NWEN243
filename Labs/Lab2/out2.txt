@@ -1,0 +1,83 @@
+count: 0 STL: 1000000 num_key: 1 n:2
+dtext: frequency: 3 char: S changeTo: E
+frequency: 2 char: A changeTo: T
+frequency: 2 char: B changeTo: A
+frequency: 2 char: C changeTo: O
+frequency: 2 char: D changeTo: N
+frequency: 2 char: E changeTo: R
+frequency: 2 char: F changeTo: I
+frequency: 2 char: G changeTo: S
+frequency: 2 char: H changeTo: H
+frequency: 2 char: I changeTo: D
+frequency: 2 char: J changeTo: L
+frequency: 2 char: K changeTo: F
+frequency: 2 char: L changeTo: C
+frequency: 2 char: M changeTo: M
+frequency: 2 char: N changeTo: U
+frequency: 2 char: O changeTo: G
+frequency: 2 char: P changeTo: Y
+frequency: 2 char: Q changeTo: P
+frequency: 2 char: R changeTo: W
+frequency: 2 char: T changeTo: B
+frequency: 2 char: U changeTo: V
+frequency: 2 char: V changeTo: K
+frequency: 2 char: W changeTo: J
+frequency: 2 char: Y changeTo: X
+frequency: 2 char: Z changeTo: Q
+frequency: 1 char: X changeTo: Z
+
+count: 0 STL: 500000 num_key: 2 n:2
+dtext: frequency: 2 char: S changeTo: E
+frequency: 1 char: A changeTo: T
+frequency: 1 char: B changeTo: A
+frequency: 1 char: C changeTo: O
+frequency: 1 char: D changeTo: N
+frequency: 1 char: E changeTo: R
+frequency: 1 char: F changeTo: I
+frequency: 1 char: G changeTo: S
+frequency: 1 char: H changeTo: H
+frequency: 1 char: I changeTo: D
+frequency: 1 char: J changeTo: L
+frequency: 1 char: K changeTo: F
+frequency: 1 char: L changeTo: C
+frequency: 1 char: M changeTo: M
+frequency: 1 char: N changeTo: U
+frequency: 1 char: O changeTo: G
+frequency: 1 char: P changeTo: Y
+frequency: 1 char: Q changeTo: P
+frequency: 1 char: R changeTo: W
+frequency: 1 char: T changeTo: B
+frequency: 1 char: U changeTo: V
+frequency: 1 char: V changeTo: K
+frequency: 1 char: W changeTo: J
+frequency: 1 char: Y changeTo: X
+frequency: 1 char: Z changeTo: Q
+frequency: 0 char: X changeTo: Z
+
+frequency: 1 char: A changeTo: E
+frequency: 1 char: B changeTo: T
+frequency: 1 char: C changeTo: A
+frequency: 1 char: D changeTo: O
+frequency: 1 char: E changeTo: N
+frequency: 1 char: F changeTo: R
+frequency: 1 char: G changeTo: I
+frequency: 1 char: H changeTo: S
+frequency: 1 char: I changeTo: H
+frequency: 1 char: J changeTo: D
+frequency: 1 char: K changeTo: L
+frequency: 1 char: L changeTo: F
+frequency: 1 char: M changeTo: C
+frequency: 1 char: N changeTo: M
+frequency: 1 char: O changeTo: U
+frequency: 1 char: P changeTo: G
+frequency: 1 char: Q changeTo: Y
+frequency: 1 char: R changeTo: P
+frequency: 1 char: S changeTo: W
+frequency: 1 char: T changeTo: B
+frequency: 1 char: U changeTo: V
+frequency: 1 char: V changeTo: K
+frequency: 1 char: W changeTo: J
+frequency: 1 char: X changeTo: X
+frequency: 1 char: Y changeTo: Q
+frequency: 1 char: Z changeTo: Z
+
